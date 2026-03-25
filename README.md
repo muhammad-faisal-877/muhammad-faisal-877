@@ -1,16 +1,116 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Faisal
 
-<!--
-**muhammad-faisal-877/muhammad-faisal-877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer (Laravel & WordPress)**
+⚡ Specialized in **WooCommerce Custom Development & Performance Optimization**
+📍 Karachi, Pakistan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I build **real-world solutions for WooCommerce stores and Laravel applications**, focusing on:
+
+* ⚡ Performance & scalability (handling large product datasets)
+* 🧠 Custom business logic & automation
+* 🔌 API integrations (FedEx, UPS, WooCommerce REST)
+* 🛠️ Custom plugin & backend system development
+
+---
+
+## 🔥 Featured Projects
+
+### ⚡ WooCommerce SKU Generator
+
+Bulk SKU generation using AJAX batching — built to handle **1000+ products without timeouts**
+👉 *Solves performance issues in existing plugins*
+
+🔗 https://github.com/muhammad-faisal-877/woocommerce-sku-generator
+
+---
+
+### 🚚 Custom Shipping Method
+
+Custom shipping logic based on selected products with dynamic method visibility
+👉 *Implements real business shipping rules*
+
+🔗 https://github.com/muhammad-faisal-877/woocommerce-custom-shipping
+
+---
+
+### 🎁 Gift Wrap Plugin
+
+Adds gift wrap option with custom fields and dynamic pricing at checkout
+👉 *Improves UX and enables upselling*
+
+🔗 https://github.com/muhammad-faisal-877/woocommerce-gift-wrap
+
+---
+
+### 🗑️ Bulk Trash Products Tool
+
+Delete products via URLs and remove associated images in bulk
+👉 *Solves large-scale WooCommerce cleanup problems*
+
+🔗 https://github.com/muhammad-faisal-877/woocommerce-bulk-trash-products
+
+---
+
+### 🛍️ Product Category Filter
+
+Control shop & search visibility by restricting categories
+👉 *Useful for multi-store and restricted catalogs*
+
+🔗 https://github.com/muhammad-faisal-877/woocommerce-product-filter
+
+---
+
+## 💼 Experience
+
+**WordPress & Laravel Developer — Heytech Ltd**
+📅 Jun 2023 – Present
+
+* Built Laravel systems with logistics integrations (FedEx / UPS)
+* Developed high-performance WooCommerce websites (PageSpeed 90+)
+* Optimized hosting, security, and backend performance
+
+---
+
+## 🧠 Highlight Project
+
+**Penless (Laravel App)**
+
+* WooCommerce REST API integration
+* FedEx & UPS API integration
+* Built scalable logistics + eCommerce system
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** PHP, Laravel, WordPress
+**Frontend:** JavaScript, HTML, CSS
+**Database:** MySQL
+**Tools:** Git, REST APIs, Postman
+
+---
+
+## 🌐 Live Projects
+
+* https://stoffgold.com/
+* https://havrenn.com/
+* https://usra.me/
+* https://www.washingtonoutfits.com/
+
+---
+
+## 📫 Contact
+
+📧 [mffaisal877@gmail.com](mailto:mffaisal877@gmail.com)
+📞 0317-2064445
+🔗 https://linkedin.com/in/muhammad-faisal-a618731b1
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving **real WooCommerce limitations** — especially performance issues in large-scale stores 🚀
