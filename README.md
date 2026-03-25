@@ -33,7 +33,7 @@ Bulk SKU generation using AJAX batching — built to handle **1000+ products wit
 Custom shipping logic based on selected products with dynamic method visibility
 👉 *Implements real business shipping rules*
 
-🔗 https://github.com/muhammad-faisal-877/woocommerce-custom-shipping
+🔗 [https://github.com/muhammad-faisal-877/woocommerce-custom-shipping](https://github.com/muhammad-faisal-877/woocommerce-custom-shipping-method)
 
 ---
 
@@ -42,7 +42,7 @@ Custom shipping logic based on selected products with dynamic method visibility
 Adds gift wrap option with custom fields and dynamic pricing at checkout
 👉 *Improves UX and enables upselling*
 
-🔗 https://github.com/muhammad-faisal-877/woocommerce-gift-wrap
+🔗 [https://github.com/muhammad-faisal-877/woocommerce-gift-wrap](https://github.com/muhammad-faisal-877/woocommerce-gift-wrap-plugin)
 
 ---
 
@@ -51,7 +51,7 @@ Adds gift wrap option with custom fields and dynamic pricing at checkout
 Delete products via URLs and remove associated images in bulk
 👉 *Solves large-scale WooCommerce cleanup problems*
 
-🔗 https://github.com/muhammad-faisal-877/woocommerce-bulk-trash-products
+🔗 [https://github.com/muhammad-faisal-877/woocommerce-bulk-trash-products](https://github.com/muhammad-faisal-877/woocommerce-bulk-trash-products-by-url)
 
 ---
 
@@ -60,7 +60,7 @@ Delete products via URLs and remove associated images in bulk
 Control shop & search visibility by restricting categories
 👉 *Useful for multi-store and restricted catalogs*
 
-🔗 https://github.com/muhammad-faisal-877/woocommerce-product-filter
+🔗 [https://github.com/muhammad-faisal-877/woocommerce-product-filter](https://github.com/muhammad-faisal-877/woocommerce-product-category-filter)
 
 ---
 
